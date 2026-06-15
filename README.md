@@ -138,54 +138,51 @@ CareerPath AI
 
 The system requires a database to store user information, academic interests, skills, career recommendations, skill gap analysis, and internship details.
 
----
 
 # Database Tables
 
 ## Users
-```
 
 | Field Name | Data Type    |
 | ---------- | ------------ |
-| name       | VARCHAR(100) |
-| email      | VARCHAR(100) |
-| password   | VARCHAR(100) |
-| user_type  | VARCHAR(20)  |
+| Name       | VARCHAR(100) |
+| Email      | VARCHAR(100) |
+| Password   | VARCHAR(100) |
+| User_Type  | VARCHAR(20)  |
 
 ## School Guidance
 
 | Field Name         | Data Type    |
 | ------------------ | ------------ |
-| interests          | VARCHAR(200) |
-| favorite_subjects  | VARCHAR(200) |
-| recommended_stream | VARCHAR(100) |
+| Interests          | VARCHAR(200) |
+| Favorite_Subjects  | VARCHAR(200) |
+| Recommended_Stream | VARCHAR(100) |
 
 ## College Guidance
 
 | Field Name         | Data Type    |
 | ------------------ | ------------ |
-| skills             | VARCHAR(200) |
-| technologies       | VARCHAR(200) |
-| certifications     | VARCHAR(200) |
-| recommended_domain | VARCHAR(100) |
-| recommended_role   | VARCHAR(100) |
+| Skills             | VARCHAR(200) |
+| Technologies       | VARCHAR(200) |
+| Certifications     | VARCHAR(200) |
+| Recommended_Domain | VARCHAR(100) |
+| Recommended_Role   | VARCHAR(100) |
 
 ## Skill Gap
 
 | Field Name     | Data Type    |
 | -------------- | ------------ |
-| target_role    | VARCHAR(100) |
-| current_skills | VARCHAR(200) |
-| missing_skills | VARCHAR(200) |
+| Target_Role    | VARCHAR(100) |
+| Current_Skills | VARCHAR(200) |
+| Missing_Skills | VARCHAR(200) |
 
 ## Internship
 
 | Field Name      | Data Type    |
 | --------------- | ------------ |
-| internship_name | VARCHAR(150) |
-| domain          | VARCHAR(100) |
-| required_skill  | VARCHAR(150) |
+| Internship_Name | VARCHAR(150) |
+| Domain          | VARCHAR(100) |
+| Required_Skill  | VARCHAR(150) |
 
-```
 
 ---
