@@ -186,3 +186,9 @@ The system requires a database to store user information, academic interests, sk
 
 
 ---
+
+# Planned Tech Stack
+
+Frontend  : HTML + CSS
+Backend   : Python
+Database  : MySQL
