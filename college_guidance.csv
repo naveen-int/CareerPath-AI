@@ -1,0 +1,201 @@
+Student_ID,Skills,Technologies,Certifications,Recommended_Domain,Recommended_Role
+CG001,Python,Machine Learning,Google AI Essentials,Artificial Intelligence,Machine Learning Engineer
+CG002,Python,Data Science,IBM Data Science,Data Science,Data Scientist
+CG003,Python,Web Development,Meta Front-End,Web Development,Frontend Developer
+CG004,Java,Spring Boot,Oracle Java,Software Development,Backend Developer
+CG005,Java,Spring Boot,Oracle Java,Software Development,Java Developer
+CG006,C++,Embedded Systems,NPTEL Embedded Systems,Embedded Systems,Embedded Engineer
+CG007,Python,Cyber Security,Google Cybersecurity,Cyber Security,Cyber Security Analyst
+CG008,SQL,Database Management,Oracle SQL,Database,Database Administrator
+CG009,Python,Cloud Computing,AWS Cloud Practitioner,Cloud Computing,Cloud Engineer
+CG010,JavaScript,React,Meta Front-End,Web Development,React Developer
+CG011,HTML & CSS,Bootstrap,Responsive Web Design,Web Development,UI Developer
+CG012,Python,Deep Learning,DeepLearning.AI,Artificial Intelligence,AI Engineer
+CG013,R,Data Analytics,Google Data Analytics,Data Analytics,Data Analyst
+CG014,Python,Natural Language Processing,Hugging Face NLP,NLP,NLP Engineer
+CG015,Java,Android Development,Google Android,Mobile Development,Android Developer
+CG016,Swift,iOS Development,Apple Developer,iOS Development,iOS Developer
+CG017,Python,Computer Vision,OpenCV Certification,Computer Vision,Computer Vision Engineer
+CG018,C,C Programming,NPTEL C Programming,System Programming,System Programmer
+CG019,Python,Automation,Python Automation,Automation,Automation Engineer
+CG020,JavaScript,Node.js,Meta Backend,Backend Development,Node.js Developer
+CG021,Python,Data Engineering,Google Cloud Data Engineer,Data Engineering,Data Engineer
+CG022,SQL,Business Intelligence,Microsoft Power BI,Business Intelligence,BI Developer
+CG023,Python,Machine Learning,TensorFlow Developer,Artificial Intelligence,AI Research Engineer
+CG024,Java,Microservices,Spring Professional,Software Development,Microservices Developer
+CG025,Python,Generative AI,Google Generative AI,Artificial Intelligence,Generative AI Engineer
+CG026,Python,Flask,Python Institute,Backend Development,Python Backend Developer
+CG027,Python,FastAPI,FastAPI Certification,Backend Development,FastAPI Developer
+CG028,JavaScript,Vue.js,Vue Certification,Web Development,Vue.js Developer
+CG029,JavaScript,Angular,Angular Certification,Web Development,Angular Developer
+CG030,Python,Django,Django Certification,Backend Development,Django Developer
+CG031,Java,Hibernate,Oracle Java,Software Development,Java Full Stack Developer
+CG032,C#,ASP.NET,Microsoft Certified,Software Development,.NET Developer
+CG033,Python,Data Visualization,Tableau Desktop Specialist,Data Analytics,Data Visualization Analyst
+CG034,SQL,MySQL,Oracle Database SQL,Database,Database Developer
+CG035,Python,Power BI,Microsoft Power BI,Business Intelligence,BI Analyst
+CG036,Python,Pandas,IBM Python for Data Science,Data Science,Data Analyst
+CG037,Python,NumPy,NPTEL Python,Artificial Intelligence,Machine Learning Engineer
+CG038,Python,Scikit-Learn,IBM Machine Learning,Machine Learning,ML Engineer
+CG039,Python,TensorFlow,TensorFlow Developer,Deep Learning,Deep Learning Engineer
+CG040,Python,PyTorch,PyTorch Certification,Deep Learning,AI Research Engineer
+CG041,JavaScript,MERN Stack,Meta Full Stack,Full Stack Development,Full Stack Developer
+CG042,JavaScript,MEAN Stack,Angular Certification,Full Stack Development,Full Stack Developer
+CG043,Python,Docker,Docker Certified Associate,DevOps,DevOps Engineer
+CG044,Linux,Kubernetes,CKA Certification,Cloud Computing,Cloud Administrator
+CG045,Python,AWS,AWS Solutions Architect,Cloud Computing,Solutions Architect
+CG046,Python,Microsoft Azure,Microsoft Azure Fundamentals,Cloud Computing,Azure Cloud Engineer
+CG047,Python,Google Cloud,Google Cloud Associate,Cloud Computing,Google Cloud Engineer
+CG048,C++,Game Development,Unity Certified,Game Development,Game Developer
+CG049,C++,Unreal Engine,Unreal Engine Certification,Game Development,Game Programmer
+CG050,Python,Blockchain,Blockchain Foundation,Blockchain,Blockchain Developer
+CG051,Python,Artificial Intelligence,Google AI Essentials,Artificial Intelligence,AI Engineer
+CG052,Python,Machine Learning,IBM Machine Learning,Artificial Intelligence,Machine Learning Engineer
+CG053,Python,Deep Learning,DeepLearning.AI,Artificial Intelligence,Deep Learning Engineer
+CG054,Python,Natural Language Processing,Hugging Face NLP,NLP,NLP Engineer
+CG055,Python,Computer Vision,OpenCV Certification,Computer Vision,Computer Vision Engineer
+CG056,Python,Generative AI,Google Generative AI,Artificial Intelligence,Generative AI Engineer
+CG057,Python,Data Science,IBM Data Science,Data Science,Data Scientist
+CG058,Python,Data Engineering,Google Cloud Data Engineer,Data Engineering,Data Engineer
+CG059,Python,Big Data,Cloudera Certification,Big Data,Big Data Engineer
+CG060,Python,Business Analytics,Google Data Analytics,Data Analytics,Business Analyst
+CG061,Java,Spring Boot,Spring Professional,Backend Development,Backend Developer
+CG062,Java,Microservices,Oracle Java,Software Development,Java Developer
+CG063,Java,Hibernate,Hibernate Certification,Backend Development,Java Full Stack Developer
+CG064,Java,Android Development,Google Android,Mobile Development,Android Developer
+CG065,C#,ASP.NET,Microsoft Certified,Software Development,.NET Developer
+CG066,JavaScript,React,Meta Front-End,Frontend Development,React Developer
+CG067,JavaScript,Angular,Angular Certification,Frontend Development,Angular Developer
+CG068,JavaScript,Vue.js,Vue Certification,Frontend Development,Vue.js Developer
+CG069,JavaScript,Node.js,Meta Backend,Backend Development,Node.js Developer
+CG070,JavaScript,Express.js,Node.js Certification,Backend Development,Express.js Developer
+CG071,JavaScript,MERN Stack,Meta Full Stack,Full Stack Development,Full Stack Developer
+CG072,JavaScript,MEAN Stack,Angular Certification,Full Stack Development,Full Stack Developer
+CG073,Python,Flask,Python Institute,Backend Development,Flask Developer
+CG074,Python,FastAPI,FastAPI Certification,Backend Development,FastAPI Developer
+CG075,Python,Django,Django Certification,Backend Development,Django Developer
+CG076,Python,AWS,AWS Solutions Architect,Cloud Computing,Cloud Engineer
+CG077,Python,Microsoft Azure,Azure Fundamentals,Cloud Computing,Azure Cloud Engineer
+CG078,Python,Google Cloud,Google Cloud Associate,Cloud Computing,Google Cloud Engineer
+CG079,Linux,Docker,Docker Certified Associate,DevOps,DevOps Engineer
+CG080,Linux,Kubernetes,CKA Certification,DevOps,Site Reliability Engineer
+CG081,Python,Cyber Security,Google Cybersecurity,Cyber Security,Cyber Security Analyst
+CG082,Python,Ethical Hacking,CEH,Cyber Security,Ethical Hacker
+CG083,Python,Network Security,CompTIA Security+,Cyber Security,Security Engineer
+CG084,SQL,Database Management,Oracle SQL,Database,Database Administrator
+CG085,SQL,MySQL,MySQL Certification,Database,Database Developer
+CG086,SQL,PostgreSQL,PostgreSQL Certification,Database,Database Engineer
+CG087,Python,Power BI,Microsoft Power BI,Business Intelligence,BI Analyst
+CG088,Python,Tableau,Tableau Desktop Specialist,Business Intelligence,BI Developer
+CG089,Python,Excel Analytics,Microsoft Excel Expert,Data Analytics,Data Analyst
+CG090,C++,Embedded Systems,NPTEL Embedded Systems,Embedded Systems,Embedded Engineer
+CG091,C++,IoT,Cisco IoT,Internet of Things,IoT Engineer
+CG092,C++,Robotics,Robotics Certification,Robotics,Robotics Engineer
+CG093,C++,Automation,Industrial Automation Certification,Automation,Automation Engineer
+CG094,C++,Game Development,Unity Certified,Game Development,Game Developer
+CG095,C++,Unreal Engine,Unreal Engine Certification,Game Development,Game Programmer
+CG096,Python,Blockchain,Blockchain Foundation,Blockchain,Blockchain Developer
+CG097,Python,UI/UX Design,Google UX Design,UI/UX Design,UI/UX Designer
+CG098,Python,Software Testing,ISTQB Foundation,Software Testing,QA Engineer
+CG099,Python,Agile Development,Scrum Master Certification,Project Management,Scrum Master
+CG100,Python,Project Management,Google Project Management,Project Management,Project Manager
+CG101,Python,Artificial Intelligence,IBM AI Engineering,Artificial Intelligence,AI Research Engineer
+CG102,Python,Machine Learning,Google Machine Learning,Artificial Intelligence,Machine Learning Specialist
+CG103,Python,Deep Learning,NVIDIA Deep Learning Institute,Artificial Intelligence,Deep Learning Specialist
+CG104,Python,Data Science,IBM Data Analyst,Data Science,Senior Data Analyst
+CG105,Python,Data Visualization,Tableau Certified Professional,Data Analytics,Visualization Specialist
+CG106,Python,Pandas,NPTEL Python for Data Science,Data Science,Data Science Associate
+CG107,Python,NumPy,Python Institute,Machine Learning,ML Developer
+CG108,Python,Scikit-Learn,IBM Machine Learning Professional,Machine Learning,Machine Learning Developer
+CG109,Python,TensorFlow,TensorFlow Developer Certificate,Artificial Intelligence,AI Developer
+CG110,Python,PyTorch,PyTorch Professional,Artificial Intelligence,Deep Learning Developer
+CG111,Java,Spring Boot,Spring Framework Certification,Backend Development,Spring Boot Developer
+CG112,Java,Microservices,Oracle Certified Professional,Backend Development,Microservices Engineer
+CG113,Java,Hibernate,Hibernate Professional,Backend Development,Java Backend Engineer
+CG114,Java,REST API,Oracle Java Developer,Backend Development,API Developer
+CG115,Java,JUnit,Oracle Java Foundations,Software Testing,Java Test Engineer
+CG116,JavaScript,React.js,Meta React Certificate,Frontend Development,Frontend Engineer
+CG117,JavaScript,Angular,Angular Professional,Frontend Development,Angular Engineer
+CG118,JavaScript,Vue.js,Vue Mastery Certification,Frontend Development,Vue Developer
+CG119,JavaScript,Next.js,Next.js Professional,Frontend Development,Next.js Developer
+CG120,JavaScript,Express.js,Node.js Professional,Backend Development,Backend API Developer
+CG121,JavaScript,Node.js,Node.js Certification,Backend Development,Node.js Backend Engineer
+CG122,Python,Django,Django Advanced,Backend Development,Django Backend Engineer
+CG123,Python,Flask,Flask Professional,Backend Development,Flask Backend Engineer
+CG124,Python,FastAPI,FastAPI Advanced,Backend Development,FastAPI Backend Engineer
+CG125,Python,REST API,Postman API Fundamentals,Backend Development,Python API Developer
+CG126,Python,AWS,AWS Developer Associate,Cloud Computing,AWS Cloud Developer
+CG127,Python,Azure,Azure Administrator Associate,Cloud Computing,Azure Administrator
+CG128,Python,Google Cloud,Professional Cloud Developer,Cloud Computing,Cloud Solutions Engineer
+CG129,Linux,Docker,Docker Professional,DevOps,Docker Engineer
+CG130,Linux,Kubernetes,Certified Kubernetes Administrator,DevOps,Kubernetes Administrator
+CG131,Python,Cyber Security,CompTIA Security+,Cyber Security,Security Analyst
+CG132,Python,Penetration Testing,CEH Practical,Cyber Security,Penetration Tester
+CG133,Python,Digital Forensics,CHFI,Cyber Security,Digital Forensics Analyst
+CG134,Python,Network Security,Cisco CCNA Security,Cyber Security,Network Security Engineer
+CG135,SQL,MySQL,Oracle MySQL Developer,Database,MySQL Developer
+CG136,SQL,PostgreSQL,PostgreSQL Associate,Database,PostgreSQL Developer
+CG137,SQL,Oracle Database,Oracle Database Administrator,Database,Oracle DBA
+CG138,Python,Power BI,Microsoft Power BI Data Analyst,Business Intelligence,Power BI Developer
+CG139,Python,Tableau,Tableau Certified Associate,Business Intelligence,Tableau Developer
+CG140,Python,Excel Analytics,Microsoft Excel Expert,Data Analytics,Business Data Analyst
+CG141,C++,Embedded Systems,Embedded C Certification,Embedded Systems,Firmware Engineer
+CG142,C++,Robotics,Robotics Process Automation Certification,Robotics,Automation Robotics Engineer
+CG143,C++,Internet of Things,Cisco IoT Essentials,Internet of Things,IoT Solutions Engineer
+CG144,C++,Automation,PLC Programming Certification,Automation,Industrial Automation Engineer
+CG145,C++,Game Development,Unity Professional,Game Development,Unity Game Developer
+CG146,C++,Unreal Engine,Unreal Authorized Instructor,Game Development,Unreal Engine Developer
+CG147,Python,Blockchain,Ethereum Developer Certification,Blockchain,Smart Contract Developer
+CG148,Python,UI/UX Design,Google UX Professional,UI/UX Design,UX Designer
+CG149,Python,Software Testing,ISTQB Advanced Level,Software Testing,Software Test Engineer
+CG150,Python,Project Management,PMP Certification,Project Management,Project Coordinator
+CG151,Python,Artificial Intelligence,Google AI Professional,Artificial Intelligence,AI Consultant
+CG152,Python,Machine Learning,IBM AI Professional,Artificial Intelligence,ML Consultant
+CG153,Python,Deep Learning,NVIDIA AI Certification,Artificial Intelligence,Deep Learning Researcher
+CG154,Python,Natural Language Processing,Hugging Face Certification,NLP,Speech Processing Engineer
+CG155,Python,Computer Vision,OpenCV Advanced,Computer Vision,Vision AI Engineer
+CG156,Python,Generative AI,Google Gemini Certification,Artificial Intelligence,Generative AI Specialist
+CG157,Python,Prompt Engineering,OpenAI Prompt Engineering,Artificial Intelligence,Prompt Engineer
+CG158,Python,Data Science,IBM Professional Data Science,Data Science,Lead Data Scientist
+CG159,Python,Data Engineering,Databricks Associate,Data Engineering,ETL Developer
+CG160,Python,Big Data,Hadoop Certification,Big Data,Hadoop Developer
+CG161,Java,Spring Boot,Spring Advanced,Backend Development,Senior Java Developer
+CG162,Java,Microservices,Microservices Professional,Backend Development,Solutions Developer
+CG163,Java,Hibernate,Hibernate Advanced,Backend Development,Enterprise Java Developer
+CG164,Java,REST API,REST API Professional,Backend Development,REST API Engineer
+CG165,Java,Android Development,Google Android Advanced,Mobile Development,Android Application Developer
+CG166,JavaScript,React.js,React Professional,Frontend Development,Senior React Developer
+CG167,JavaScript,Angular,Angular Expert,Frontend Development,Angular Architect
+CG168,JavaScript,Vue.js,Vue Advanced,Frontend Development,Vue Frontend Engineer
+CG169,JavaScript,Node.js,Node Professional,Backend Development,Node Backend Engineer
+CG170,JavaScript,Express.js,Express Professional,Backend Development,Express Backend Developer
+CG171,Python,Django,Django Expert,Backend Development,Django Architect
+CG172,Python,Flask,Flask Advanced,Backend Development,Python Web Developer
+CG173,Python,FastAPI,FastAPI Expert,Backend Development,API Architect
+CG174,Python,GraphQL,GraphQL Certification,Backend Development,GraphQL Developer
+CG175,Python,REST API,Postman Advanced,Backend Development,Integration Engineer
+CG176,Python,AWS,AWS DevOps Engineer,Cloud Computing,Cloud Solutions Architect
+CG177,Python,Azure,Azure Solutions Architect,Cloud Computing,Azure Solutions Architect
+CG178,Python,Google Cloud,Professional Cloud Architect,Cloud Computing,Cloud Architect
+CG179,Linux,Docker,Docker Expert,DevOps,Container Platform Engineer
+CG180,Linux,Kubernetes,CKAD Certification,DevOps,Kubernetes Engineer
+CG181,Python,Cyber Security,CompTIA CySA+,Cyber Security,Cyber Security Consultant
+CG182,Python,Ethical Hacking,Certified Ethical Hacker,Cyber Security,Ethical Hacking Consultant
+CG183,Python,Penetration Testing,Offensive Security Certified Professional,Cyber Security,Penetration Testing Engineer
+CG184,Python,Digital Forensics,Computer Hacking Forensic Investigator,Cyber Security,Digital Forensics Expert
+CG185,Python,Network Security,Cisco CyberOps,Cyber Security,Cyber Operations Analyst
+CG186,SQL,MySQL,Oracle MySQL Professional,Database,Database Architect
+CG187,SQL,PostgreSQL,PostgreSQL Professional,Database,Database Consultant
+CG188,SQL,Oracle Database,Oracle Database Professional,Database,Senior Database Administrator
+CG189,Python,Power BI,Microsoft Certified Power BI Expert,Business Intelligence,BI Consultant
+CG190,Python,Tableau,Tableau Certified Professional,Business Intelligence,Senior Tableau Developer
+CG191,Python,Excel Analytics,Microsoft Office Expert,Data Analytics,Analytics Consultant
+CG192,C++,Embedded Systems,Embedded Linux Certification,Embedded Systems,Embedded Software Engineer
+CG193,C++,Robotics,Advanced Robotics Certification,Robotics,Robotics Software Engineer
+CG194,C++,Internet of Things,AWS IoT Certification,Internet of Things,IoT Solution Architect
+CG195,C++,Automation,Industrial Automation Professional,Automation,Automation Consultant
+CG196,C++,Game Development,Unity Expert,Game Development,Game Engine Developer
+CG197,C++,Unreal Engine,Unreal Professional,Game Development,Gameplay Programmer
+CG198,Python,Blockchain,Hyperledger Certification,Blockchain,Blockchain Solutions Architect
+CG199,Python,UI/UX Design,Google UX Expert,UI/UX Design,Senior UX Designer
+CG200,Python,Project Management,PMP Professional,Project Management,Technical Project Manager
