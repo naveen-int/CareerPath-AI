@@ -1,0 +1,546 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>Skill Gap Detection | CareerPath AI</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+rel="stylesheet">
+
+<link rel="stylesheet"
+href="style.css">
+
+</head>
+
+<body>
+
+<!-- ==========================
+     NAVBAR
+========================== -->
+
+<nav class="navbar navbar-expand-lg navbar-light">
+
+<div class="container">
+
+<a class="navbar-brand"
+href="index.html">
+
+CareerPath AI
+
+</a>
+
+<div class="ms-auto">
+
+<a href="index.html"
+class="btn btn-outline-premium">
+
+Home
+
+</a>
+
+</div>
+
+</div>
+
+</nav>
+
+<!-- ==========================
+     SKILL GAP
+========================== -->
+
+<section class="section-light">
+
+<div class="container">
+
+<div class="text-center mb-5">
+
+<h1 class="section-title">
+
+Skill Gap Detection
+
+</h1>
+
+<p>
+
+Provide your target role and current skills.
+CareerPath AI will identify your missing skills.
+
+</p>
+
+</div>
+
+<div class="row justify-content-center">
+
+<div class="col-lg-8">
+
+<div class="feature-card">
+
+<form id="skillGapForm">
+
+<!-- Target Role -->
+
+<div class="mb-4">
+
+<label class="form-label">
+
+Target Role
+
+</label>
+
+<select
+id="targetRole"
+class="form-select"
+required>
+
+<option value="">
+Select Target Role
+</option>
+
+<option>Machine Learning Engineer</option>
+<option>Data Scientist</option>
+<option>Data Analyst</option>
+<option>Full Stack Developer</option>
+<option>Cyber Security Analyst</option>
+<option>Cloud Engineer</option>
+<option>UI/UX Designer</option>
+<option>Software Engineer</option>
+
+</select>
+
+</div>
+
+<!-- Current Skills -->
+
+<div class="mb-4">
+
+    <label class="form-label">
+        Current Skills (Select Multiple)
+    </label>
+
+    <div class="row">
+
+        <!-- Left Column -->
+
+        <div class="col-md-6">
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="Python">
+                <label class="form-check-label">Python</label>
+            </div>
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="Java">
+                <label class="form-check-label">Java</label>
+            </div>
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="C++">
+                <label class="form-check-label">C++</label>
+            </div>
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="JavaScript">
+                <label class="form-check-label">JavaScript</label>
+            </div>
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="HTML">
+                <label class="form-check-label">HTML</label>
+            </div>
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="CSS">
+                <label class="form-check-label">CSS</label>
+            </div>
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="React">
+                <label class="form-check-label">React</label>
+            </div>
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="Node.js">
+                <label class="form-check-label">Node.js</label>
+            </div>
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="SQL">
+                <label class="form-check-label">SQL</label>
+            </div>
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="MongoDB">
+                <label class="form-check-label">MongoDB</label>
+            </div>
+
+        </div>
+
+        <!-- Right Column -->
+
+        <div class="col-md-6">
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="Machine Learning">
+                <label class="form-check-label">Machine Learning</label>
+            </div>
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="Pandas">
+                <label class="form-check-label">Pandas</label>
+            </div>
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="NumPy">
+                <label class="form-check-label">NumPy</label>
+            </div>
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="Networking">
+                <label class="form-check-label">Networking</label>
+            </div>
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="Cyber Security">
+                <label class="form-check-label">Cyber Security</label>
+            </div>
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="Cloud Computing">
+                <label class="form-check-label">Cloud Computing</label>
+            </div>
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="AWS">
+                <label class="form-check-label">AWS</label>
+            </div>
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="Docker">
+                <label class="form-check-label">Docker</label>
+            </div>
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="UI/UX Design">
+                <label class="form-check-label">UI/UX Design</label>
+            </div>
+
+            <div class="form-check mb-2">
+                <input class="form-check-input skill" type="checkbox" value="Figma">
+                <label class="form-check-label">Figma</label>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div class="d-grid">
+
+<button
+type="submit"
+class="btn btn-premium">
+
+Submit
+
+</button>
+
+</div>
+
+</form>
+
+
+<!-- ==========================
+     OUTPUT
+========================== -->
+
+<div class="hero-box mt-5">
+
+<h3>Skill Gap Analysis Result</h3>
+
+<div id="result">
+
+<p>
+Select your target role and current skills, then click <strong>Submit</strong>.
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ==========================
+     FOOTER
+========================== -->
+
+<footer>
+
+<div class="container text-center">
+
+<h4>CareerPath AI</h4>
+
+<p>
+Helping Students Build Better Careers
+</p>
+
+<p>
+© 2026 CareerPath AI.
+</p>
+
+</div>
+
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<script>
+
+document.getElementById("skillGapForm").addEventListener("submit", async function(e){
+
+    e.preventDefault();
+
+    const targetRole =
+    document.getElementById("targetRole").value;
+
+    const selectedSkills = [];
+
+    document.querySelectorAll(".skill:checked").forEach(function(skill){
+
+        selectedSkills.push(skill.value);
+
+    });
+
+    const result =
+    document.getElementById("result");
+
+    result.innerHTML =
+    "<p>Analyzing skill gap...</p>";
+
+    try{
+
+        const response = await fetch(
+
+        "http://127.0.0.1:5000/skill-gap",
+
+        {
+
+            method:"POST",
+
+            headers:{
+                "Content-Type":"application/json"
+            },
+
+            body:JSON.stringify({
+
+                target_role:targetRole,
+
+                current_skills:selectedSkills.join(",")
+
+            })
+
+        });
+
+        const data = await response.json();
+
+        if(data.success){
+
+            result.innerHTML = `
+
+            <table class="table table-bordered">
+
+            <tr>
+
+            <th width="40%">
+
+            Target Role
+
+            </th>
+
+            <td>
+
+            ${data.target_role}
+
+            </td>
+
+            </tr>
+
+            <tr>
+
+            <th>
+
+            Current Skills
+
+            </th>
+
+            <td>
+
+            ${data.current_skills.join(", ")}
+
+            </td>
+
+            </tr>
+
+            <tr>
+
+            <th>
+
+            Required Skills
+
+            </th>
+
+            <td>
+
+            ${data.required_skills.join(", ")}
+
+            </td>
+
+            </tr>
+
+            <tr>
+
+            <th>
+
+            Matched Skills
+
+            </th>
+
+            <td>
+
+            ${data.matched_skills.join(", ")}
+
+            </td>
+
+            </tr>
+
+            <tr>
+
+            <th>
+
+            Missing Skills
+
+            </th>
+
+            <td>
+
+            ${data.missing_skills.join(", ")}
+
+            </td>
+
+            </tr>
+
+            <tr>
+
+            <th>
+
+            Recommended Course
+
+            </th>
+
+            <td>
+
+            ${data.recommended_course}
+
+            </td>
+
+            </tr>
+
+            <tr>
+
+            <th>
+
+            Learning Resource
+
+            </th>
+
+            <td>
+
+            ${data.learning_resource}
+
+            </td>
+
+            </tr>
+
+            <tr>
+
+            <th>
+
+            Career Level
+
+            </th>
+
+            <td>
+
+            ${data.career_level}
+
+            </td>
+
+            </tr>
+
+            </table>
+
+            `;
+
+        }
+
+        else{
+
+            result.innerHTML = `
+
+            <div class="alert alert-warning">
+
+            ${data.message}
+
+            </div>
+
+            `;
+
+        }
+
+    }
+
+    catch(error){
+
+        console.error(error);
+
+        result.innerHTML = `
+
+        <div class="alert alert-danger">
+
+        Unable to connect to the backend.<br>
+
+        Please make sure Flask is running on
+
+        <strong>
+
+        http://127.0.0.1:5000
+
+        </strong>
+
+        </div>
+
+        `;
+
+    }
+
+});
+
+</script>
+
+</body>
+
+</html>
+

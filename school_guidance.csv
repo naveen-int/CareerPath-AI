@@ -1,0 +1,201 @@
+Student_ID,Interest,Favourite_Subject,Preferred_Activity,Recommended_Stream,Recommended_Course,Career_Path
+SG001,Science,Mathematics,Coding,Science,B.E Computer Science,Software Engineer
+SG002,Science,Mathematics,Problem Solving,Science,B.E Artificial Intelligence,AI Engineer
+SG003,Science,Mathematics,Research,Science,B.Sc Mathematics,Mathematician
+SG004,Science,Mathematics,Experimenting,Science,B.Sc Data Science,Data Scientist
+SG005,Science,Physics,Research,Science,B.Sc Physics,Physicist
+SG006,Science,Physics,Experimenting,Science,B.E Mechanical Engineering,Mechanical Engineer
+SG007,Science,Physics,Problem Solving,Science,B.E Robotics,Robotics Engineer
+SG008,Science,Physics,Coding,Science,B.E Electronics and Communication,Electronics Engineer
+SG009,Science,Chemistry,Research,Science,B.Sc Chemistry,Chemist
+SG010,Science,Chemistry,Experimenting,Science,B.Pharm,Pharmacist
+SG011,Science,Chemistry,Helping People,Science,B.Sc Biotechnology,Biotechnologist
+SG012,Science,Chemistry,Problem Solving,Science,Chemical Engineering,Chemical Engineer
+SG013,Science,Biology,Helping People,Science,MBBS,Doctor
+SG014,Science,Biology,Research,Science,BDS,Dentist
+SG015,Science,Biology,Experimenting,Science,B.Sc Biotechnology,Biotechnologist
+SG016,Science,Biology,Teaching,Science,B.Sc Nursing,Nurse
+SG017,Science,Computer Science,Coding,Science,B.E Computer Science,Software Engineer
+SG018,Science,Computer Science,Problem Solving,Science,B.E Artificial Intelligence,Machine Learning Engineer
+SG019,Science,Computer Science,Research,Science,B.Sc Data Science,Data Scientist
+SG020,Science,Computer Science,Leadership,Science,B.E Information Technology,IT Manager
+SG021,Science,Computer Science,Designing,Science,B.E UI UX Design,UI UX Designer
+SG022,Science,Computer Science,Creativity,Science,B.E Game Development,Game Developer
+SG023,Science,Computer Science,Teaching,Science,B.Sc Computer Science,Lecturer
+SG024,Science,Computer Science,Writing,Science,BCA,Software Developer
+SG025,Science,Commerce,Business Planning,Commerce,BBA,Business Analyst
+SG026,Science,Commerce,Leadership,Commerce,B.Com,Accountant
+SG027,Science,Commerce,Accounting,Commerce,B.Com Accounting,Auditor
+SG028,Science,Commerce,Problem Solving,Commerce,B.Com Finance,Financial Analyst
+SG029,Science,Accountancy,Accounting,Commerce,Chartered Accountancy,Chartered Accountant
+SG030,Science,Accountancy,Business Planning,Commerce,Company Secretary,Company Secretary
+SG031,Science,Accountancy,Leadership,Commerce,CMA,Cost Accountant
+SG032,Science,Accountancy,Teaching,Commerce,B.Com CA,Tax Consultant
+SG033,Science,Economics,Research,Commerce,B.A Economics,Economist
+SG034,Science,Economics,Business Planning,Commerce,BBA,Business Consultant
+SG035,Science,Economics,Leadership,Commerce,MBA,Management Consultant
+SG036,Science,Economics,Problem Solving,Commerce,B.Com Banking,Banker
+SG037,Science,History,Research,Arts,B.A History,Historian
+SG038,Science,History,Writing,Arts,B.A Journalism,Journalist
+SG039,Science,History,Teaching,Arts,B.A History,History Teacher
+SG040,Science,History,Public Speaking,Arts,BA Political Science,Civil Services Officer
+SG041,Science,Geography,Research,Arts,B.Sc Geography,Geographer
+SG042,Science,Geography,Teaching,Arts,B.Ed Geography,Geography Teacher
+SG043,Science,Geography,Writing,Arts,B.A Journalism,Travel Writer
+SG044,Science,Geography,Leadership,Arts,Disaster Management,Disaster Management Officer
+SG045,Science,Political Science,Public Speaking,Arts,BA Political Science,Politician
+SG046,Science,Political Science,Leadership,Arts,BA Political Science,Civil Services Officer
+SG047,Science,Political Science,Writing,Arts,BA Journalism,Political Journalist
+SG048,Science,Political Science,Teaching,Arts,BA Political Science,Professor
+SG049,Science,Fine Arts,Drawing,Arts,BFA,Fine Artist
+SG050,Science,Fine Arts,Designing,Arts,B.Des,Graphic Designer
+SG051,Science,Fine Arts,Creativity,Arts,BFA,Illustrator
+SG052,Science,Fine Arts,Teaching,Arts,BFA,Art Teacher
+SG053,Science,Mathematics,Leadership,Science,B.Tech AI & DS,AI Engineer
+SG054,Science,Physics,Helping People,Science,B.Sc Radiology,Radiology Technician
+SG055,Science,Chemistry,Coding,Science,B.Tech Bioinformatics,Bioinformatics Engineer
+SG056,Science,Biology,Creativity,Science,B.Sc Nutrition,Nutritionist
+SG057,Science,Computer Science,Research,Science,B.Tech Cyber Security,Cyber Security Analyst
+SG058,Science,Mathematics,Teaching,Science,B.Sc Mathematics,Mathematics Teacher
+SG059,Science,Physics,Leadership,Science,Aeronautical Engineering,Aerospace Engineer
+SG060,Science,Chemistry,Leadership,Science,Petroleum Engineering,Petroleum Engineer
+SG061,Commerce,Commerce,Accounting,Commerce,B.Com,Accountant
+SG062,Commerce,Commerce,Business Planning,Commerce,BBA,Business Manager
+SG063,Commerce,Commerce,Leadership,Commerce,B.Com Finance,Financial Analyst
+SG064,Commerce,Commerce,Teaching,Commerce,B.Com,Business Studies Teacher
+SG065,Commerce,Commerce,Public Speaking,Commerce,BBA,Marketing Executive
+SG066,Commerce,Accountancy,Accounting,Commerce,Chartered Accountancy,Chartered Accountant
+SG067,Commerce,Accountancy,Business Planning,Commerce,CMA,Cost Accountant
+SG068,Commerce,Accountancy,Leadership,Commerce,Company Secretary,Company Secretary
+SG069,Commerce,Accountancy,Problem Solving,Commerce,B.Com Accounting,Auditor
+SG070,Commerce,Accountancy,Teaching,Commerce,B.Com CA,Tax Consultant
+SG071,Commerce,Economics,Research,Commerce,B.A Economics,Economist
+SG072,Commerce,Economics,Business Planning,Commerce,MBA,Business Consultant
+SG073,Commerce,Economics,Leadership,Commerce,B.Com Banking,Banker
+SG074,Commerce,Economics,Problem Solving,Commerce,BBA,Business Analyst
+SG075,Commerce,Economics,Teaching,Commerce,B.A Economics,Economics Lecturer
+SG076,Commerce,Computer Science,Coding,Science,BCA,Software Developer
+SG077,Commerce,Computer Science,Problem Solving,Science,B.Sc Computer Science,Programmer
+SG078,Commerce,Computer Science,Research,Science,B.Sc Data Science,Data Analyst
+SG079,Commerce,Computer Science,Leadership,Science,B.Tech Information Technology,IT Manager
+SG080,Commerce,Computer Science,Designing,Science,B.Sc Multimedia,Web Designer
+SG081,Commerce,Mathematics,Coding,Science,B.Sc Data Science,Data Scientist
+SG082,Commerce,Mathematics,Problem Solving,Science,B.Sc Statistics,Statistician
+SG083,Commerce,Mathematics,Research,Science,B.Sc Mathematics,Mathematician
+SG084,Commerce,Mathematics,Leadership,Science,B.Tech Artificial Intelligence,AI Engineer
+SG085,Commerce,Mathematics,Teaching,Science,B.Sc Mathematics,Mathematics Lecturer
+SG086,Commerce,History,Writing,Arts,B.A Journalism,Journalist
+SG087,Commerce,History,Teaching,Arts,B.A History,History Teacher
+SG088,Commerce,History,Public Speaking,Arts,BA Political Science,Civil Services Officer
+SG089,Commerce,History,Research,Arts,B.A Archaeology,Archaeologist
+SG090,Commerce,History,Leadership,Arts,BA Public Administration,Administrative Officer
+SG091,Commerce,Fine Arts,Drawing,Arts,BFA,Fine Artist
+SG092,Commerce,Fine Arts,Designing,Arts,B.Des,Graphic Designer
+SG093,Commerce,Fine Arts,Creativity,Arts,BFA,Illustrator
+SG094,Commerce,Fine Arts,Teaching,Arts,BFA,Art Teacher
+SG095,Commerce,Fine Arts,Writing,Arts,B.A Animation,Animator
+SG096,Commerce,Geography,Research,Arts,B.Sc Geography,Geographer
+SG097,Commerce,Geography,Teaching,Arts,B.Ed Geography,Geography Teacher
+SG098,Commerce,Political Science,Leadership,Arts,BA Political Science,Civil Services Officer
+SG099,Commerce,Political Science,Public Speaking,Arts,BA Political Science,Politician
+SG100,Commerce,Political Science,Writing,Arts,BA Journalism,Political Journalist
+SG101,Commerce,Computer Science,Creativity,Science,B.Sc Game Development,Game Developer
+SG102,Commerce,Mathematics,Research,Science,B.Tech Robotics,Robotics Engineer
+SG103,Commerce,Physics,Experimenting,Science,B.E Mechanical Engineering,Mechanical Engineer
+SG104,Commerce,Chemistry,Research,Science,B.Sc Chemistry,Chemist
+SG105,Commerce,Biology,Helping People,Science,B.Sc Nursing,Nurse
+SG106,Commerce,Biology,Research,Science,B.Sc Biotechnology,Biotechnologist
+SG107,Commerce,Physics,Leadership,Science,Aeronautical Engineering,Aerospace Engineer
+SG108,Commerce,Chemistry,Leadership,Science,Chemical Engineering,Chemical Engineer
+SG109,Commerce,Computer Science,Teaching,Science,BCA,Computer Instructor
+SG110,Commerce,Economics,Accounting,Commerce,B.Com Finance,Finance Officer
+SG111,Arts,History,Research,Arts,B.A History,Historian
+SG112,Arts,History,Writing,Arts,B.A Journalism,Journalist
+SG113,Arts,History,Teaching,Arts,B.A History,History Teacher
+SG114,Arts,History,Leadership,Arts,BA Public Administration,Administrative Officer
+SG115,Arts,History,Public Speaking,Arts,BA Political Science,Civil Services Officer
+SG116,Arts,Political Science,Public Speaking,Arts,BA Political Science,Politician
+SG117,Arts,Political Science,Leadership,Arts,BA Political Science,Civil Services Officer
+SG118,Arts,Political Science,Writing,Arts,BA Journalism,Political Journalist
+SG119,Arts,Political Science,Teaching,Arts,BA Political Science,Political Science Professor
+SG120,Arts,Political Science,Research,Arts,BA Public Administration,Policy Analyst
+SG121,Arts,Geography,Research,Arts,B.Sc Geography,Geographer
+SG122,Arts,Geography,Teaching,Arts,B.Ed Geography,Geography Teacher
+SG123,Arts,Geography,Writing,Arts,BA Travel & Tourism,Travel Writer
+SG124,Arts,Geography,Leadership,Arts,Disaster Management,Disaster Management Officer
+SG125,Arts,Geography,Public Speaking,Arts,BA Public Administration,Government Officer
+SG126,Arts,Fine Arts,Drawing,Arts,BFA,Fine Artist
+SG127,Arts,Fine Arts,Designing,Arts,B.Des,Graphic Designer
+SG128,Arts,Fine Arts,Creativity,Arts,BFA,Illustrator
+SG129,Arts,Fine Arts,Teaching,Arts,BFA,Art Teacher
+SG130,Arts,Fine Arts,Writing,Arts,BA Animation,Animator
+SG131,Arts,Economics,Research,Commerce,B.A Economics,Economist
+SG132,Arts,Economics,Business Planning,Commerce,BBA,Business Consultant
+SG133,Arts,Economics,Leadership,Commerce,MBA,Management Consultant
+SG134,Arts,Economics,Accounting,Commerce,B.Com Finance,Financial Analyst
+SG135,Arts,Economics,Teaching,Commerce,B.A Economics,Economics Lecturer
+SG136,Arts,Computer Science,Coding,Science,BCA,Software Developer
+SG137,Arts,Computer Science,Problem Solving,Science,B.Sc Computer Science,Programmer
+SG138,Arts,Computer Science,Research,Science,B.Sc Data Science,Data Scientist
+SG139,Arts,Computer Science,Designing,Science,B.Sc Multimedia,UI UX Designer
+SG140,Arts,Computer Science,Leadership,Science,B.Tech Information Technology,IT Manager
+SG141,Arts,Mathematics,Coding,Science,B.Sc Data Science,Data Analyst
+SG142,Arts,Mathematics,Research,Science,B.Sc Mathematics,Mathematician
+SG143,Arts,Mathematics,Problem Solving,Science,B.Tech Artificial Intelligence,AI Engineer
+SG144,Arts,Physics,Experimenting,Science,B.E Mechanical Engineering,Mechanical Engineer
+SG145,Arts,Chemistry,Research,Science,B.Sc Chemistry,Chemist
+SG146,Arts,Biology,Helping People,Science,B.Sc Nursing,Nurse
+SG147,Vocational,Computer Science,Coding,Vocational,Diploma Computer Engineering,Software Technician
+SG148,Vocational,Computer Science,Problem Solving,Vocational,Diploma Information Technology,IT Support Engineer
+SG149,Vocational,Physics,Repairing,Vocational,Diploma Mechanical Engineering,Mechanical Technician
+SG150,Vocational,Physics,Experimenting,Vocational,Diploma Automobile Engineering,Automobile Technician
+SG151,Vocational,Chemistry,Experimenting,Vocational,Diploma Chemical Technology,Chemical Technician
+SG152,Vocational,Biology,Helping People,Vocational,Diploma Nursing,Nursing Assistant
+SG153,Vocational,Mathematics,Repairing,Vocational,Diploma Civil Engineering,Civil Technician
+SG154,Vocational,Mathematics,Designing,Vocational,Diploma Architecture,Architectural Draftsman
+SG155,Vocational,Fine Arts,Designing,Vocational,Diploma Graphic Design,Graphic Designer
+SG156,Vocational,Fine Arts,Creativity,Vocational,Diploma Animation,Animator
+SG157,Vocational,Commerce,Business Planning,Vocational,Diploma Retail Management,Retail Manager
+SG158,Vocational,Accountancy,Accounting,Vocational,Diploma Accounting,Accounts Assistant
+SG159,Vocational,Geography,Leadership,Vocational,Diploma Logistics,Logistics Coordinator
+SG160,Vocational,Political Science,Public Speaking,Vocational,Diploma Public Administration,Office Assistant
+SG161,Vocational,History,Writing,Vocational,Diploma Journalism,Content Writer
+SG162,Vocational,History,Teaching,Vocational,Diploma Education,Instructor
+SG163,Vocational,History,Research,Vocational,Diploma Museum Studies,Museum Assistant
+SG164,Vocational,History,Leadership,Vocational,Diploma Public Administration,Administrative Assistant
+SG165,Vocational,History,Public Speaking,Vocational,Diploma Event Management,Event Coordinator
+SG166,Vocational,Geography,Research,Vocational,Diploma Survey Engineering,Land Surveyor
+SG167,Vocational,Geography,Repairing,Vocational,Diploma Civil Engineering,Site Technician
+SG168,Vocational,Geography,Teaching,Vocational,Diploma Geography,Geography Instructor
+SG169,Vocational,Geography,Problem Solving,Vocational,Diploma GIS Technology,GIS Technician
+SG170,Vocational,Geography,Business Planning,Vocational,Diploma Logistics,Supply Chain Assistant
+SG171,Vocational,Political Science,Leadership,Vocational,Diploma Public Administration,Office Administrator
+SG172,Vocational,Political Science,Writing,Vocational,Diploma Journalism,News Reporter
+SG173,Vocational,Political Science,Teaching,Vocational,Diploma Education,Social Science Instructor
+SG174,Vocational,Political Science,Research,Vocational,Diploma Office Administration,Office Executive
+SG175,Vocational,Political Science,Business Planning,Vocational,Diploma Business Administration,Business Coordinator
+SG176,Vocational,Computer Science,Leadership,Vocational,Diploma Information Technology,System Administrator
+SG177,Vocational,Computer Science,Teaching,Vocational,Diploma Computer Applications,Computer Instructor
+SG178,Vocational,Computer Science,Research,Vocational,Diploma Cyber Security,Cyber Security Technician
+SG179,Vocational,Computer Science,Creativity,Vocational,Diploma Multimedia,Multimedia Designer
+SG180,Vocational,Computer Science,Problem Solving,Vocational,Diploma Software Development,Software Support Engineer
+SG181,Vocational,Mathematics,Coding,Vocational,Diploma Software Development,Junior Software Developer
+SG182,Vocational,Mathematics,Problem Solving,Vocational,Diploma Data Analytics,Data Entry Analyst
+SG183,Vocational,Mathematics,Research,Vocational,Diploma Statistics,Statistical Assistant
+SG184,Vocational,Mathematics,Teaching,Vocational,Diploma Education,Math Instructor
+SG185,Vocational,Mathematics,Leadership,Vocational,Diploma Project Management,Project Coordinator
+SG186,Vocational,Physics,Coding,Vocational,Diploma Embedded Systems,Embedded Technician
+SG187,Vocational,Physics,Leadership,Vocational,Diploma Electrical Engineering,Electrical Supervisor
+SG188,Vocational,Physics,Problem Solving,Vocational,Diploma Robotics,Robotics Technician
+SG189,Vocational,Chemistry,Research,Vocational,Diploma Laboratory Technology,Lab Technician
+SG190,Vocational,Chemistry,Problem Solving,Vocational,Diploma Industrial Safety,Safety Officer
+SG191,Vocational,Chemistry,Teaching,Vocational,Diploma Laboratory Technology,Lab Instructor
+SG192,Vocational,Biology,Research,Vocational,Diploma Medical Laboratory,Lab Assistant
+SG193,Vocational,Biology,Teaching,Vocational,Diploma Nursing,Nursing Instructor
+SG194,Vocational,Biology,Leadership,Vocational,Diploma Health Care,Health Care Supervisor
+SG195,Vocational,Fine Arts,Drawing,Vocational,Diploma Interior Design,Interior Designer
+SG196,Vocational,Fine Arts,Teaching,Vocational,Diploma Fine Arts,Art Instructor
+SG197,Vocational,Fine Arts,Business Planning,Vocational,Diploma Fashion Design,Fashion Entrepreneur
+SG198,Vocational,Fine Arts,Public Speaking,Vocational,Diploma Media Studies,Media Presenter
+SG199,Vocational,Commerce,Leadership,Vocational,Diploma Business Management,Business Supervisor
+SG200,Vocational,Accountancy,Business Planning,Vocational,Diploma Finance,Finance Assistant

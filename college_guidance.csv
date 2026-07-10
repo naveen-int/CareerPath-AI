@@ -1,0 +1,201 @@
+Student_ID,Skills,Technologies,Certification,Preferred_Work,Recommended_Domain,Recommended_Role
+CG001,Python,Machine Learning,Google Certification,AI Research,Artificial Intelligence,Machine Learning Engineer
+CG002,JavaScript,React,Meta Certification,Web Development,Web Development,Frontend Developer
+CG003,Networking,Cyber Security,Cisco Certification,Cyber Security,Cyber Security,Security Analyst
+CG004,SQL,MySQL,Oracle Certification,Database Management,Database Management,Database Administrator
+CG005,Cloud,AWS,AWS Certification,Cloud Computing,Cloud Computing,Cloud Engineer
+CG006,Python,Power BI,Microsoft Certification,Business Intelligence,Business Intelligence,BI Developer
+CG007,Java,Node.js,IBM Certification,Software Development,Software Development,Backend Developer
+CG008,Python,Data Science,Coursera Certification,Data Analysis,Data Science,Data Scientist
+CG009,JavaScript,Flutter,Google Certification,Mobile Development,Mobile App Development,Flutter Developer
+CG010,UI Design,Figma,Meta Certification,UI/UX Design,UI/UX Design,UI UX Designer
+CG011,Cloud,Azure,Microsoft Certification,DevOps,Cloud Computing,DevOps Engineer
+CG012,Python,Tableau,Google Certification,Data Analysis,Business Intelligence,Reporting Analyst
+CG013,Networking,AWS,Cisco Certification,Cloud Computing,Cloud Computing,Cloud Support Engineer
+CG014,Java,Docker,Oracle Certification,Automation,Software Development,Java Developer
+CG015,SQL,MongoDB,IBM Certification,Database Management,Database Management,Database Developer
+CG016,Python,TensorFlow,Google Certification,Machine Learning,Artificial Intelligence,AI Engineer
+CG017,C++,Cyber Security,Cisco Certification,Cyber Security,Cyber Security,Ethical Hacker
+CG018,JavaScript,Node.js,Coursera Certification,Web Development,Web Development,Full Stack Developer
+CG019,Python,Scikit-Learn,NPTEL Certification,AI Research,Artificial Intelligence,AI Research Engineer
+CG020,SQL,Power BI,Microsoft Certification,Business Intelligence,Business Intelligence,Data Visualization Analyst
+CG021,Cloud,Docker,AWS Certification,DevOps,Cloud Computing,DevOps Engineer
+CG022,Java,Spring Boot,Oracle Certification,Software Development,Software Development,Spring Boot Developer
+CG023,Python,Flask,Google Certification,Software Development,Software Development,Python Backend Developer
+CG024,JavaScript,React,Meta Certification,UI/UX Design,Web Development,React Developer
+CG025,Networking,Linux,Cisco Certification,Networking,Networking,Network Engineer
+CG026,Python,Machine Learning,IBM Certification,Automation,Artificial Intelligence,AI Automation Engineer
+CG027,SQL,PostgreSQL,Oracle Certification,Database Management,Database Management,SQL Developer
+CG028,Cloud,Kubernetes,AWS Certification,Cloud Computing,Cloud Computing,Cloud Architect
+CG029,Java,Microservices,IBM Certification,Software Development,Software Development,Software Engineer
+CG030,Python,Pandas,Coursera Certification,Data Analysis,Data Science,Data Analyst
+CG031,JavaScript,Angular,Google Certification,Web Development,Web Development,Angular Developer
+CG032,C++,Embedded Systems,NPTEL Certification,Automation,Software Development,Embedded Engineer
+CG033,Python,OpenCV,Google Certification,AI Research,Artificial Intelligence,Computer Vision Engineer
+CG034,UI Design,Adobe XD,Meta Certification,Designing,UI/UX Design,Product Designer
+CG035,Networking,Azure,Microsoft Certification,Cloud Computing,Cloud Computing,Azure Administrator
+CG036,Python,TensorFlow,IBM Certification,Deep Learning,Artificial Intelligence,Deep Learning Engineer
+CG037,SQL,MongoDB,Coursera Certification,Database Management,Database Management,MongoDB Developer
+CG038,Java,Hibernate,Oracle Certification,Software Development,Software Development,Java Software Engineer
+CG039,JavaScript,Vue.js,Meta Certification,Web Development,Web Development,Vue.js Developer
+CG040,Python,NumPy,Google Certification,Data Analysis,Data Science,Research Analyst
+CG041,Cloud,Azure,AWS Certification,DevOps,Cloud Computing,Cloud Infrastructure Engineer
+CG042,Networking,Firewalls,Cisco Certification,Cyber Security,Cyber Security,Security Engineer
+CG043,Python,Keras,Google Certification,Machine Learning,Artificial Intelligence,ML Engineer
+CG044,SQL,Oracle,Oracle Certification,Database Management,Database Management,Oracle DBA
+CG045,Java,Android Studio,Google Certification,Mobile Development,Mobile App Development,Android Developer
+CG046,JavaScript,React Native,Meta Certification,Mobile Development,Mobile App Development,React Native Developer
+CG047,Python,Power BI,IBM Certification,Business Intelligence,Business Intelligence,BI Analyst
+CG048,Cloud,Azure,Microsoft Certification,Cloud Computing,Cloud Computing,Cloud Consultant
+CG049,Python,Flask,Coursera Certification,Automation,Software Development,Python Developer
+CG050,Networking,Windows Server,Cisco Certification,Networking,Networking,System Administrator
+CG051,Python,Scikit-Learn,Google Certification,Machine Learning,Artificial Intelligence,Machine Learning Engineer
+CG052,JavaScript,Next.js,Meta Certification,Web Development,Web Development,Frontend Engineer
+CG053,Java,Spring Boot,Oracle Certification,Cloud Computing,Software Development,Backend Engineer
+CG054,SQL,PostgreSQL,Coursera Certification,Database Management,Database Management,Database Administrator
+CG055,Cloud,Docker,AWS Certification,DevOps,Cloud Computing,DevOps Engineer
+CG056,Networking,Cyber Security,Cisco Certification,Cyber Security,Cyber Security,Ethical Hacker
+CG057,Python,TensorFlow,IBM Certification,AI Research,Artificial Intelligence,AI Research Engineer
+CG058,JavaScript,React,Google Certification,UI/UX Design,Web Development,React Developer
+CG059,Python,Power BI,Microsoft Certification,Business Intelligence,Business Intelligence,BI Analyst
+CG060,Java,Android Studio,Google Certification,Mobile Development,Mobile App Development,Android Developer
+CG061,Python,Flask,Coursera Certification,Software Development,Software Development,Python Backend Developer
+CG062,Cloud,Azure,Microsoft Certification,Cloud Computing,Cloud Computing,Azure Cloud Engineer
+CG063,Networking,Linux,Cisco Certification,Networking,Networking,Network Administrator
+CG064,SQL,MongoDB,IBM Certification,Database Management,Database Management,MongoDB Developer
+CG065,JavaScript,Vue.js,Meta Certification,Web Development,Web Development,Vue.js Developer
+CG066,Python,Pandas,Google Certification,Data Analysis,Data Science,Data Analyst
+CG067,Java,Hibernate,Oracle Certification,Software Development,Software Development,Java Software Engineer
+CG068,Cloud,Kubernetes,AWS Certification,DevOps,Cloud Computing,Cloud Architect
+CG069,Python,Keras,Google Certification,Deep Learning,Artificial Intelligence,Deep Learning Engineer
+CG070,Networking,Firewalls,Cisco Certification,Cyber Security,Cyber Security,Security Engineer
+CG071,JavaScript,Angular,Coursera Certification,Web Development,Web Development,Angular Developer
+CG072,Python,OpenCV,IBM Certification,AI Research,Artificial Intelligence,Computer Vision Engineer
+CG073,SQL,Oracle,Oracle Certification,Database Management,Database Management,Oracle DBA
+CG074,Cloud,AWS,AWS Certification,Cloud Computing,Cloud Computing,Solutions Architect
+CG075,JavaScript,Flutter,Google Certification,Mobile Development,Mobile App Development,Flutter Developer
+CG076,Python,NumPy,Coursera Certification,Data Analysis,Data Science,Research Analyst
+CG077,Java,Microservices,IBM Certification,Software Development,Software Development,Software Engineer
+CG078,Networking,Azure,Microsoft Certification,Cloud Computing,Cloud Computing,Cloud Support Engineer
+CG079,Python,Machine Learning,NPTEL Certification,Automation,Artificial Intelligence,AI Automation Engineer
+CG080,SQL,Power BI,Microsoft Certification,Business Intelligence,Business Intelligence,Business Intelligence Developer
+CG081,JavaScript,React Native,Meta Certification,Mobile Development,Mobile App Development,React Native Developer
+CG082,Python,TensorFlow,Google Certification,Machine Learning,Artificial Intelligence,ML Engineer
+CG083,Cloud,Docker,IBM Certification,DevOps,Cloud Computing,Site Reliability Engineer
+CG084,Java,Node.js,Coursera Certification,Software Development,Software Development,Application Developer
+CG085,Networking,Windows Server,Cisco Certification,Networking,Networking,System Administrator
+CG086,SQL,MySQL,Oracle Certification,Database Management,Database Management,SQL Developer
+CG087,Python,Tableau,Microsoft Certification,Business Intelligence,Business Intelligence,Dashboard Developer
+CG088,JavaScript,Node.js,Meta Certification,Web Development,Web Development,Full Stack Developer
+CG089,Cloud,Azure,AWS Certification,Cloud Computing,Cloud Computing,Cloud Consultant
+CG090,Python,Data Science,Google Certification,Data Analysis,Data Science,Data Scientist
+CG091,Java,Spring Boot,IBM Certification,Automation,Software Development,Java Backend Developer
+CG092,Networking,Cyber Security,Cisco Certification,Cyber Security,Cyber Security,SOC Analyst
+CG093,Python,Flask,Google Certification,Software Development,Software Development,Python Developer
+CG094,SQL,PostgreSQL,Oracle Certification,Database Management,Database Management,Database Engineer
+CG095,JavaScript,Figma,Meta Certification,UI/UX Design,UI/UX Design,UI UX Designer
+CG096,Cloud,Kubernetes,Microsoft Certification,DevOps,Cloud Computing,Kubernetes Engineer
+CG097,Python,Machine Learning,Coursera Certification,AI Research,Artificial Intelligence,AI Engineer
+CG098,Java,Android Studio,Oracle Certification,Mobile Development,Mobile App Development,Android Application Developer
+CG099,Networking,Linux,Cisco Certification,Cyber Security,Cyber Security,Penetration Tester
+CG100,Python,Power BI,Google Certification,Business Intelligence,Business Intelligence,Business Analyst
+CG101,Java,C++,Oracle Certification,Software Development,Software Development,System Software Engineer
+CG102,Python,Scikit-Learn,IBM Certification,Machine Learning,Artificial Intelligence,ML Engineer
+CG103,JavaScript,Angular,Meta Certification,Web Development,Web Development,Angular Developer
+CG104,SQL,MongoDB,Oracle Certification,Database Management,Database Management,Database Administrator
+CG105,Cloud,Azure,Microsoft Certification,Cloud Computing,Cloud Computing,Azure Administrator
+CG106,Networking,Cyber Security,Cisco Certification,Cyber Security,Cyber Security,Security Consultant
+CG107,Python,TensorFlow,Google Certification,AI Research,Artificial Intelligence,Deep Learning Engineer
+CG108,Java,Spring Boot,Coursera Certification,Software Development,Software Development,Backend Developer
+CG109,JavaScript,React,Meta Certification,Web Development,Web Development,Frontend Developer
+CG110,Python,Tableau,IBM Certification,Business Intelligence,Business Intelligence,BI Developer
+CG111,SQL,Power BI,Microsoft Certification,Data Analysis,Business Intelligence,Reporting Analyst
+CG112,Cloud,Docker,AWS Certification,DevOps,Cloud Computing,DevOps Engineer
+CG113,Networking,Linux,Cisco Certification,Networking,Networking,Network Engineer
+CG114,Python,OpenCV,Google Certification,AI Research,Artificial Intelligence,Computer Vision Engineer
+CG115,Java,Android Studio,Google Certification,Mobile Development,Mobile App Development,Android Developer
+CG116,JavaScript,Flutter,Coursera Certification,Mobile Development,Mobile App Development,Flutter Developer
+CG117,Python,Pandas,IBM Certification,Data Analysis,Data Science,Data Analyst
+CG118,SQL,Oracle,Oracle Certification,Database Management,Database Management,Oracle DBA
+CG119,Cloud,Kubernetes,AWS Certification,Cloud Computing,Cloud Computing,Cloud Architect
+CG120,Java,Hibernate,Oracle Certification,Software Development,Software Development,Java Software Engineer
+CG121,Python,Keras,Google Certification,Machine Learning,Artificial Intelligence,AI Engineer
+CG122,JavaScript,Vue.js,Meta Certification,Web Development,Web Development,Vue.js Developer
+CG123,Networking,Firewalls,Cisco Certification,Cyber Security,Cyber Security,Security Engineer
+CG124,Python,NumPy,Coursera Certification,Data Analysis,Data Science,Research Analyst
+CG125,Cloud,AWS,AWS Certification,Cloud Computing,Cloud Computing,Cloud Engineer
+CG126,SQL,PostgreSQL,IBM Certification,Database Management,Database Management,Database Developer
+CG127,Java,Node.js,Oracle Certification,Software Development,Software Development,Application Developer
+CG128,Python,Machine Learning,Google Certification,Automation,Artificial Intelligence,AI Automation Engineer
+CG129,JavaScript,React Native,Meta Certification,Mobile Development,Mobile App Development,React Native Developer
+CG130,Networking,Windows Server,Cisco Certification,Networking,Networking,System Administrator
+CG131,Python,Flask,Google Certification,Software Development,Software Development,Python Backend Developer
+CG132,SQL,MySQL,Oracle Certification,Database Management,Database Management,SQL Developer
+CG133,Cloud,Azure,Microsoft Certification,Cloud Computing,Cloud Computing,Cloud Consultant
+CG134,Java,Microservices,IBM Certification,Software Development,Software Development,Software Engineer
+CG135,Python,Data Science,Coursera Certification,Data Analysis,Data Science,Data Scientist
+CG136,JavaScript,Figma,Meta Certification,UI/UX Design,UI/UX Design,UI UX Designer
+CG137,Networking,Cyber Security,Cisco Certification,Cyber Security,Cyber Security,Ethical Hacker
+CG138,Python,TensorFlow,NPTEL Certification,Machine Learning,Artificial Intelligence,Machine Learning Engineer
+CG139,Cloud,Docker,AWS Certification,DevOps,Cloud Computing,Cloud Infrastructure Engineer
+CG140,Java,Spring Boot,Oracle Certification,Software Development,Software Development,Spring Boot Developer
+CG141,Python,Power BI,Google Certification,Business Intelligence,Business Intelligence,Business Analyst
+CG142,SQL,MongoDB,IBM Certification,Database Management,Database Management,MongoDB Developer
+CG143,Networking,Azure,Microsoft Certification,Cloud Computing,Cloud Computing,Cloud Support Engineer
+CG144,JavaScript,Node.js,Coursera Certification,Web Development,Web Development,Full Stack Developer
+CG145,Python,Scikit-Learn,Google Certification,AI Research,Artificial Intelligence,AI Research Engineer
+CG146,Cloud,Kubernetes,Microsoft Certification,DevOps,Cloud Computing,Kubernetes Engineer
+CG147,Java,Android Studio,Google Certification,Mobile Development,Mobile App Development,Android Application Developer
+CG148,Python,Power BI,Coursera Certification,Business Intelligence,Business Intelligence,BI Analyst
+CG149,JavaScript,React,Meta Certification,UI/UX Design,Web Development,React Developer
+CG150,Networking,Linux,Cisco Certification,Cyber Security,Cyber Security,Penetration Tester
+CG151,Python,TensorFlow,IBM Certification,Machine Learning,Artificial Intelligence,Artificial Intelligence Engineer
+CG152,JavaScript,React,Coursera Certification,Web Development,Web Development,Frontend Web Developer
+CG153,Java,Spring Boot,Oracle Certification,Software Development,Software Development,Java Backend Developer
+CG154,SQL,MySQL,Oracle Certification,Database Management,Database Management,Database Administrator
+CG155,Cloud,AWS,AWS Certification,Cloud Computing,Cloud Computing,Cloud Solutions Engineer
+CG156,Networking,Cyber Security,Cisco Certification,Cyber Security,Cyber Security,Cyber Security Analyst
+CG157,Python,Power BI,Microsoft Certification,Business Intelligence,Business Intelligence,Business Intelligence Developer
+CG158,JavaScript,Flutter,Google Certification,Mobile Development,Mobile App Development,Flutter Application Developer
+CG159,Python,Data Science,Google Certification,Data Analysis,Data Science,Data Scientist
+CG160,Java,Android Studio,Google Certification,Mobile Development,Mobile App Development,Android Software Developer
+CG161,Python,Scikit-Learn,Coursera Certification,Machine Learning,Artificial Intelligence,Machine Learning Engineer
+CG162,Cloud,Azure,Microsoft Certification,Cloud Computing,Cloud Computing,Azure Cloud Engineer
+CG163,Networking,Linux,Cisco Certification,Networking,Networking,Network Engineer
+CG164,SQL,PostgreSQL,IBM Certification,Database Management,Database Management,PostgreSQL Database Developer
+CG165,JavaScript,Vue.js,Meta Certification,Web Development,Web Development,Vue.js Frontend Developer
+CG166,Python,Pandas,Google Certification,Data Analysis,Data Science,Data Analyst
+CG167,Java,Hibernate,Oracle Certification,Software Development,Software Development,Java Software Engineer
+CG168,Cloud,Kubernetes,AWS Certification,DevOps,Cloud Computing,DevOps Engineer
+CG169,Python,Keras,IBM Certification,AI Research,Artificial Intelligence,Deep Learning Engineer
+CG170,Networking,Firewalls,Cisco Certification,Cyber Security,Cyber Security,Network Security Engineer
+CG171,JavaScript,Angular,Meta Certification,Web Development,Web Development,Angular Frontend Developer
+CG172,Python,OpenCV,Google Certification,AI Research,Artificial Intelligence,Computer Vision Engineer
+CG173,SQL,Oracle,Oracle Certification,Database Management,Database Management,Oracle Database Administrator
+CG174,Cloud,Docker,AWS Certification,DevOps,Cloud Computing,Cloud DevOps Engineer
+CG175,Java,Microservices,IBM Certification,Software Development,Software Development,Microservices Developer
+CG176,Python,NumPy,Coursera Certification,Data Analysis,Data Science,Data Science Associate
+CG177,JavaScript,Node.js,Meta Certification,Web Development,Web Development,Full Stack Web Developer
+CG178,Networking,Windows Server,Cisco Certification,Networking,Networking,System Administrator
+CG179,Python,Machine Learning,Google Certification,Automation,Artificial Intelligence,AI Automation Engineer
+CG180,SQL,Power BI,Microsoft Certification,Business Intelligence,Business Intelligence,Reporting Analyst
+CG181,Java,Spring Boot,IBM Certification,Software Development,Software Development,Enterprise Application Developer
+CG182,Python,Flask,Google Certification,Software Development,Software Development,Python Backend Developer
+CG183,Cloud,Azure,AWS Certification,Cloud Computing,Cloud Computing,Cloud Infrastructure Engineer
+CG184,Networking,Cyber Security,Cisco Certification,Cyber Security,Cyber Security,Ethical Hacker
+CG185,JavaScript,React Native,Meta Certification,Mobile Development,Mobile App Development,React Native Developer
+CG186,Python,TensorFlow,NPTEL Certification,Machine Learning,Artificial Intelligence,Machine Learning Specialist
+CG187,SQL,MongoDB,Oracle Certification,Database Management,Database Management,MongoDB Database Developer
+CG188,Cloud,Kubernetes,Microsoft Certification,DevOps,Cloud Computing,Kubernetes Engineer
+CG189,Java,Android Studio,Coursera Certification,Mobile Development,Mobile App Development,Android Application Developer
+CG190,Python,Tableau,IBM Certification,Business Intelligence,Business Intelligence,Dashboard Developer
+CG191,JavaScript,Figma,Meta Certification,UI/UX Design,UI/UX Design,UI UX Designer
+CG192,Networking,Azure,Cisco Certification,Cloud Computing,Cloud Computing,Cloud Support Engineer
+CG193,Python,Machine Learning,IBM Certification,AI Research,Artificial Intelligence,AI Research Engineer
+CG194,Java,Node.js,Oracle Certification,Software Development,Software Development,Application Developer
+CG195,SQL,MySQL,Coursera Certification,Database Management,Database Management,SQL Database Engineer
+CG196,Cloud,Docker,AWS Certification,DevOps,Cloud Computing,Site Reliability Engineer
+CG197,JavaScript,React,Google Certification,Web Development,Web Development,React Developer
+CG198,Python,Power BI,Google Certification,Business Intelligence,Business Intelligence,Business Analyst
+CG199,Networking,Linux,Cisco Certification,Cyber Security,Cyber Security,Penetration Tester
+CG200,Python,Data Science,Coursera Certification,Data Analysis,Data Science,Senior Data Analyst
